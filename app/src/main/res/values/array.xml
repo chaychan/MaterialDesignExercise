@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string-array name="menuTitles">
+       <item>@string/menu_local_music</item>
+       <item>@string/menu_net_music</item>
+   </string-array>
+</resources>

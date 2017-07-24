@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MaterialDesignExercise</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_setting">设置</string>
+    <string name="menu_help">帮助</string>
+    <string name="menu_add">添加</string>
+    <string name="open">打开</string>
+    <string name="close">关闭</string>
+    <string name="menu_text">侧滑菜单</string>
+    <string name="content_text">内容区域</string>
+    <string name="menu_local_music">本地音乐</string>
+    <string name="menu_net_music">网络音乐</string>
+</resources>
