@@ -5,6 +5,20 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 
 ### 详情可以查看我的Blog
 
+
+#### CSDN
+
 [MaterialDesign学习篇(一)，MaterialDesign的介绍](http://blog.csdn.net/chay_chan/article/details/76038374)
 
 [MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用](http://blog.csdn.net/chay_chan/article/details/76038408)
+
+
+#### 简书
+
+[MaterialDesign学习篇(一)，MaterialDesign的介绍](http://www.jianshu.com/p/177d1a2abca7)
+
+[MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用](http://www.jianshu.com/p/27e62a974ff1)
+
+### 鼓励和支持
+
+如果觉得对你有帮助的话，请star一下并关注我的CSDN和简书，当作鼓励和支持我。如果遇到什么问题，可以在我的博客上评论留言，我会及时为你解答，我非常乐于和他们交流技术，共同进步。
