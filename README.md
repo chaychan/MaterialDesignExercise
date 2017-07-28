@@ -12,12 +12,16 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 
 [MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用](http://blog.csdn.net/chay_chan/article/details/76038408)
 
+[MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用](http://blog.csdn.net/Chay_Chan/article/details/76262007)
+
 
 #### 简书
 
 [MaterialDesign学习篇(一)，MaterialDesign的介绍](http://www.jianshu.com/p/177d1a2abca7)
 
 [MaterialDesign学习篇(二)，Toolbar、DrawerLayout的使用](http://www.jianshu.com/p/27e62a974ff1)
+
+[MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用](http://www.jianshu.com/p/c8d2b94f016f)
 
 ### 鼓励和支持
 
