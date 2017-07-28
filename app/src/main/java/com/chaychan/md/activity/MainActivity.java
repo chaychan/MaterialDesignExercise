@@ -12,7 +12,8 @@ import com.chaychan.md.DemoBean;
 public class MainActivity extends ListActivity {
 
     private DemoBean[] mDatas= {
-            new DemoBean("ToolBarDemo",ToolBarActivity.class)
+            new DemoBean("ToolBarDemo",ToolBarActivity.class),
+            new DemoBean("AppBarLayoutDemo",AppBarLayoutActivity.class)
     };
 
     @Override

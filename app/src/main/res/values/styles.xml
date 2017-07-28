@@ -8,4 +8,18 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <!--CollapsingToolbarLayout展开时标题文字样式-->
+    <style name="ExpandedTitleTextStyle" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">30sp</item>
+        <item name="android:textColor">#fff</item>
+    </style>
+
+    <!--CollapsingToolbarLayout折叠时标题文字样式-->
+    <style name="CollapsedTitleTextStyle" parent="TextAppearance.AppCompat.Title">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">#f00</item>
+    </style>
+
+
 </resources>
