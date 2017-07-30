@@ -22,6 +22,8 @@
         </activity>
         <activity android:name=".activity.AppBarLayoutActivity">
         </activity>
+        <activity android:name=".activity.TabLayoutActivity">
+        </activity>
     </application>
 
 </manifest>
