@@ -14,7 +14,8 @@ public class MainActivity extends ListActivity {
     private DemoBean[] mDatas= {
             new DemoBean("ToolBarDemo",ToolBarActivity.class),
             new DemoBean("AppBarLayoutDemo",AppBarLayoutActivity.class),
-            new DemoBean("TabLayoutDemo",TabLayoutActivity.class)
+            new DemoBean("TabLayoutDemo",TabLayoutActivity.class),
+            new DemoBean("SearchViewDemo",SearchViewActivity.class)
     };
 
     @Override

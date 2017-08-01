@@ -16,6 +16,8 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 
 [MaterialDesign学习篇(四)，如何使用TabLayout](http://blog.csdn.net/Chay_Chan/article/details/76407276)
 
+[MaterialDesign学习篇(五)，使用SearchView的正确姿势](http://blog.csdn.net/chay_chan/article/details/76511028)
+
 
 #### 简书
 
@@ -26,6 +28,8 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 [MaterialDesign学习篇(三)，AppBarLayout、CollapsingToolbarLayout的使用](http://www.jianshu.com/p/c8d2b94f016f)
 
 [MaterialDesign学习篇(四)，如何使用TabLayout](http://www.jianshu.com/p/61c3f5638a25)
+
+[MaterialDesign学习篇(五)，使用SearchView的正确姿势](http://www.jianshu.com/p/16f9e995e454)
 
 ### 鼓励和支持
 

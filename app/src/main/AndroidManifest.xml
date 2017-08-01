@@ -3,6 +3,7 @@
           package="com.chaychan.md">
 
     <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
 
     <application
         android:allowBackup="true"
@@ -18,12 +19,14 @@
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name=".activity.ToolBarActivity">
-        </activity>
-        <activity android:name=".activity.AppBarLayoutActivity">
-        </activity>
-        <activity android:name=".activity.TabLayoutActivity">
-        </activity>
+        <activity android:name=".activity.ToolBarActivity"/>
+
+        <activity android:name=".activity.AppBarLayoutActivity"/>
+        <activity android:name=".activity.TabLayoutActivity"/>
+        <activity android:name=".activity.SearchViewActivity"
+            android:theme="@style/SeachViewActivityTheme"
+            />
+
     </application>
 
 </manifest>
