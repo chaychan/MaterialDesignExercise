@@ -47,11 +47,9 @@ public class FileUtils {
                 c.close();
             }
         }
-
         if (nameList.isEmpty()){
             return new String[]{};
         }
-
         return (String[])nameList.toArray(new String[nameList.size()]);
     }
 

@@ -20,13 +20,15 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.ToolBarActivity"/>
-
         <activity android:name=".activity.AppBarLayoutActivity"/>
         <activity android:name=".activity.TabLayoutActivity"/>
-        <activity android:name=".activity.SearchViewActivity"
-            android:theme="@style/SeachViewActivityTheme"
-            />
-
+        <activity
+            android:name=".activity.SearchViewActivity"
+            android:theme="@style/SeachViewActivityTheme"/>
+        <activity android:name=".activity.PaletteActivity1">
+        </activity>
+        <activity android:name=".activity.PaletteActivity2">
+        </activity>
     </application>
 
 </manifest>

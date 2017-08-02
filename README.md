@@ -18,6 +18,8 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 
 [MaterialDesign学习篇(五)，使用SearchView的正确姿势](http://blog.csdn.net/chay_chan/article/details/76511028)
 
+[MaterialDesign学习篇(六)，调色板Palette的学习](http://blog.csdn.net/Chay_Chan/article/details/76570461)
+
 
 #### 简书
 
@@ -30,6 +32,8 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 [MaterialDesign学习篇(四)，如何使用TabLayout](http://www.jianshu.com/p/61c3f5638a25)
 
 [MaterialDesign学习篇(五)，使用SearchView的正确姿势](http://www.jianshu.com/p/16f9e995e454)
+
+[MaterialDesign学习篇(六)，调色板Palette的学习](http://www.jianshu.com/p/bae9ba0be8f7)
 
 ### 鼓励和支持
 
