@@ -29,6 +29,8 @@
         </activity>
         <activity android:name=".activity.PaletteActivity2">
         </activity>
+        <activity android:name=".activity.CardViewActivity">
+        </activity>
     </application>
 
 </manifest>

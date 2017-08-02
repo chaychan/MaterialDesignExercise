@@ -17,7 +17,8 @@ public class MainActivity extends ListActivity {
             new DemoBean("TabLayoutDemo",TabLayoutActivity.class),
             new DemoBean("SearchViewDemo",SearchViewActivity.class),
             new DemoBean("PaletteDemo1",PaletteActivity1.class),
-            new DemoBean("PaletteDemo2",PaletteActivity2.class)
+            new DemoBean("PaletteDemo2",PaletteActivity2.class),
+            new DemoBean("CardViewDemo",CardViewActivity.class)
     };
 
     @Override

@@ -20,6 +20,8 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 
 [MaterialDesign学习篇(六)，调色板Palette的学习](http://blog.csdn.net/Chay_Chan/article/details/76570461)
 
+[MaterialDesign学习篇(七)，CardView卡片式布局的使用](http://blog.csdn.net/chay_chan/article/details/76583434)
+
 
 #### 简书
 
@@ -34,6 +36,8 @@ Material Design这种设计语言（风格）的提出已经有数个年头，�
 [MaterialDesign学习篇(五)，使用SearchView的正确姿势](http://www.jianshu.com/p/16f9e995e454)
 
 [MaterialDesign学习篇(六)，调色板Palette的学习](http://www.jianshu.com/p/bae9ba0be8f7)
+
+[MaterialDesign学习篇(七)，CardView卡片式布局的使用](http://www.jianshu.com/p/2617bcd98412)
 
 ### 鼓励和支持
 
