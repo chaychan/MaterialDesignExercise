@@ -31,6 +31,10 @@
         </activity>
         <activity android:name=".activity.CardViewActivity">
         </activity>
+        <activity android:name=".activity.RecyclerViewActivity1">
+        </activity>
+        <activity android:name=".activity.RecyclerViewActivity2">
+        </activity>
     </application>
 
 </manifest>

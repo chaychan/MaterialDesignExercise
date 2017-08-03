@@ -7,7 +7,7 @@ import android.view.View;
 import android.widget.ArrayAdapter;
 import android.widget.ListView;
 
-import com.chaychan.md.DemoBean;
+import com.chaychan.md.bean.DemoBean;
 
 public class MainActivity extends ListActivity {
 
@@ -18,7 +18,9 @@ public class MainActivity extends ListActivity {
             new DemoBean("SearchViewDemo",SearchViewActivity.class),
             new DemoBean("PaletteDemo1",PaletteActivity1.class),
             new DemoBean("PaletteDemo2",PaletteActivity2.class),
-            new DemoBean("CardViewDemo",CardViewActivity.class)
+            new DemoBean("CardViewDemo",CardViewActivity.class),
+            new DemoBean("RecyclerViewDemo1",RecyclerViewActivity1.class),
+            new DemoBean("RecyclerViewDemo2",RecyclerViewActivity2.class)
     };
 
     @Override

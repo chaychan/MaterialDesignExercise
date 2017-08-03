@@ -6,4 +6,6 @@
 
     <color name="toolbar_bg">#0176da</color>
     <color name="netease_red">#D43931</color>
+
+    <color name="divider">#ffd8d8d8</color>
 </resources>

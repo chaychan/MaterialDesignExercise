@@ -1,4 +1,4 @@
-package com.chaychan.md;
+package com.chaychan.md.bean;
 
 public class DemoBean {
     public String name;
